@@ -10,7 +10,9 @@ The UI includes features such as candlestick charts, order books, and real-time 
 
 ## Demo
 
-[Add video demo here] 🎥
+The screen record was taken with a Simulator - iPhone 14 Pro Max
+https://github.com/jeremiahseun/binance_sly/assets/53568423/e3b54cb2-f42c-44c1-8445-4d89d93e19b1
+
 
 ## Design
 
