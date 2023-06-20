@@ -60,7 +60,7 @@ Contributions to this project are more than welcome! If you have any ideas, impr
 If you have any questions, feedback, or suggestions, please feel free to reach out:
 
 - Email: seunjeremiah@gmail.com
-- Twitter: @jeremiahseun
+- Twitter: [@jeremiahseun](https://www.twitter.com/jeremiahseun)
 - GitHub: jeremiahseun
 
 Happy coding and Fluttering! 😊✨
