@@ -10,16 +10,13 @@ The UI includes features such as candlestick charts, order books, and real-time 
 
 ## Demo
 
-The screen record was taken with a Simulator - iPhone 14 Pro Max
-![Screen Record](https://github.com/jeremiahseun/binance_sly/assets/53568423/e3b54cb2-f42c-44c1-8445-4d89d93e19b1)
-
-### From assets
-![Full Video](https://github.com/jeremiahseun/binance_sly/blob/main/assets/binance-sly.mp4)
-
+The screen recording was taken with a simulator, an iPhone 14 Pro Max
+<br>
+[Screen Record](https://github-production-user-asset-6210df.s3.amazonaws.com/53568423/244233535-e3b54cb2-f42c-44c1-8445-4d89d93e19b1.mp4)
 
 ## Design
 
-The design for the project can be found in [this Figma link](https://www.figma.com/file/jR33GYkNjebdZfLtbpXBxQ/Mobile-Design-Test?type=design&node-id=0%3A1&t=vcCqqyzHjpFQ1ZgU-1). It serves as the blueprint for the UI and guided the implementation process.
+The design for the project can be found in [this Figma link](https://www.figma.com/file/jR33GYkNjebdZfLtbpXBxQ/Mobile-Design-Test?type=design&node-id=0%3A1&t=vcCqqyzHjpFQ1ZgU-1). It serves as the blueprint for the UI and guides the implementation process.
 
 ## Challenges
 
